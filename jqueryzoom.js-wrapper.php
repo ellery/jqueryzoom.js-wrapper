@@ -9,16 +9,16 @@
  * that starts the plugin.
  *
  * @link              http://durgin.com
- * @since             1.0.0
+ * @since             0.1.0
  * @package           Jqueryzoom.js_Wrapper
  *
  * @wordpress-plugin
  * Plugin Name:       jqueryZoom.js Wrapper
- * Plugin URI:        http://durgin.com/jqueryZoom.js-wrapper
+ * Plugin URI:        http://durgin.co/jqueryZoom.js-wrapper
  * Description:       This plugin acts as a Wrapper to include jqueryZoom.js within a wordpress install. I've modified the original plugin to support Jquery's Noconflict mode. 
- * Version:           0.1.0
+ * Version:           0.1.1
  * Author:            Ellery Durgin
- * Author URI:        http://durgin.com
+ * Author URI:        http://durgin.co
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       jqueryzoom.js-wrapper
