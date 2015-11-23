@@ -14,6 +14,7 @@ License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
 This plugin acts as a Wrapper to include jqueryZoom.js (https://github.com/leye0/AngularZoomDirective "Github") within a wordpress install. I've modified the original plugin to support Jquery's Noconflict mode. 
 
+The plugin provides a mouseover zoom effect on any image with a "zoom" attribute added. You can see screenshot one for an example. I wanted this plugin to be as lightweight and simple as possible without limiting to a "theme" type add in. The plugin does support responsive design and has been tested with Zurb Foundation column based layouts. 
 
 == Installation ==
 
