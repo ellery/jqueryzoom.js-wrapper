@@ -1,5 +1,5 @@
-=== Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+=== jqueryzoom.js-wrapper ===
+Contributors: ejd91717
 Donate link: http://durgin.com
 Tags: images, Jquery, Zoom, responsive
 Requires at least: 3.0.1
